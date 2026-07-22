@@ -1,4 +1,4 @@
-name: FastAPI CI Pipeline
+name: Backend CI Pipeline
 
 on:
   push:
